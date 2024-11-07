@@ -162,3 +162,5 @@ cython_debug/
 .DS_store
 
 env.py
+
+data/
